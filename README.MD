@@ -8,6 +8,10 @@ Siga os passos abaixo para executar o sistema localmente:
 
 1. Clonar o repositório:
 
+```
+https://github.com/jonasrsribeiro/herosection-ensinio.git
+```
+
 2. Instalar as dependências:
 
 - Frontend
@@ -37,7 +41,7 @@ Siga os passos abaixo para executar o sistema localmente:
 4. Link de acesso ao deploy:
 
 ```
-https://jonasrsribeiro.github.io/Desafio-Herosection-Ensinio/
+https://jonasrsribeiro.github.io/herosection-ensinio/
 ```
 
 ## Tecnologias Utilizadas
